@@ -1,0 +1,34 @@
+
+body{
+    background-image: url("../Images/BackgroundImage2.jpg");
+    justify-content: center;
+}
+
+.Title {
+    color: chocolate;
+    font-style: italic;
+    background-color: aquamarine;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+form {
+    background-color: transparent;
+    backdrop-filter: blur(20px);
+    border-radius: 10;
+    border: none;
+    min-height: 10vh;
+}
+
+.Form-Title {
+
+    color: azure;
+    font-size: medium;
+    background-color: black;
+}
+
+.Input {
+    text-align: center;
+    font-size: larger;
+}
